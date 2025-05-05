@@ -11,7 +11,7 @@ use PHPUnit\Framework\TestCase;
  */
 final class SampleTest extends TestCase
 {
-    public function testXxx(): void
+    public function test_xxx(): void
     {
         self::assertTrue(true);
     }
